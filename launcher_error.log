@@ -1,0 +1,16 @@
+Traceback (most recent call last):
+  File "C:\Launcher\launcher.py", line 6065, in <module>
+    _app = Launcher()
+  File "C:\Launcher\launcher.py", line 1069, in __init__
+    self.select(self.selected, force=True)
+    ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Launcher\launcher.py", line 2060, in select
+    self.redraw()
+    ~~~~~~~~~~~^^
+  File "C:\Launcher\launcher.py", line 2169, in redraw
+    w, h = self.canvas.winfo_width(), self.canvas.winfo_height()
+           ~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\aarda\AppData\Local\Programs\Python\Python313\Lib\tkinter\__init__.py", line 1463, in winfo_width
+    self.tk.call('winfo', 'width', self._w))
+    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
+_tkinter.TclError: can't invoke "winfo" command: application has been destroyed

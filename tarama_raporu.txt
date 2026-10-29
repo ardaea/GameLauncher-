@@ -1,0 +1,33 @@
+Otomatik tarama: 2026-10-29 13:21:26
+[Steam] 11 oyun (0.0 sn)
+  + Deadlock  ->  steam://rungameid/1422450
+  + F1® 24  ->  steam://rungameid/2488620
+  + Rust  ->  steam://rungameid/252490
+  + RV There Yet?  ->  steam://rungameid/3949040
+  + Counter-Strike 2  ->  steam://rungameid/730
+  + ARC Raiders  ->  steam://rungameid/1808500
+  + Deadlock  ->  steam://rungameid/1422450
+  + F1® 24  ->  steam://rungameid/2488620
+  + Rust  ->  steam://rungameid/252490
+  + RV There Yet?  ->  steam://rungameid/3949040
+  + Counter-Strike 2  ->  steam://rungameid/730
+[Epic Games] 2 oyun (0.0 sn)
+  + Rocket League®  ->  com.epicgames.launcher://apps/9773aa1aa54f4f7b80e44bef04986cea%3A530145df28a24424923f5828cc9031a1%3ASugar?action=launch&silent=true
+  + Fortnite  ->  com.epicgames.launcher://apps/fn%3A4fe75bbc5a674f4f9b356b5c90567da5%3AFortnite?action=launch&silent=true
+[EA app] 3 oyun (0.2 sn)
+  + Battlefield™ 1  ->  D:\Battlefield 1\bf1Trial.exe
+  + Battlefield™ 6  ->  D:\Battlefield 6\bf6.exe
+  + EA Desktop  ->  C:\Program Files\Electronic Arts\EA Desktop\13.813.1.6327-1792690966\EA Desktop\EABackgroundService.exe
+[Riot] 3 oyun (0.0 sn)
+  + League of Legends  ->  C:/Riot Games/Riot Client/RiotClientServices.exe
+  + Teamfighttactics  ->  C:/Riot Games/Riot Client/RiotClientServices.exe
+  + VALORANT  ->  C:/Riot Games/Riot Client/RiotClientServices.exe
+[Xbox] 8 oyun (0.6 sn)
+  + Microsoft Flight Simulator 2024  ->  shell:AppsFolder\Microsoft.Limitless_8wekyb3d8bbwe!Game
+  + Minecraft for Windows  ->  shell:AppsFolder\Microsoft.MinecraftUWP_8wekyb3d8bbwe!Game
+  + Minecraft Launcher  ->  shell:AppsFolder\Microsoft.4297127D64EC6_8wekyb3d8bbwe!Game
+  + Minecraft: Java Edition  ->  shell:AppsFolder\Microsoft.MinecraftJavaEdition_8wekyb3d8bbwe!Game
+  + Dead By Daylight  ->  shell:AppsFolder\BehaviourInteractive.DeadbyDaylightWindows_b1gz2xhdanwfm!Game
+  + Forza Horizon 6  ->  shell:AppsFolder\Microsoft.ForteBaseGame_8wekyb3d8bbwe!Game
+  + Sea of Thieves  ->  shell:AppsFolder\Microsoft.SeaofThieves_8wekyb3d8bbwe!Game
+  + THE FINALS  ->  shell:AppsFolder\Embark.THEFINALS_kd876xf6dde24!Game
